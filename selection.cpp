@@ -1,4 +1,3 @@
-//selection sort an array in ascending order
 
 #include<iostream>
 using namespace std;
